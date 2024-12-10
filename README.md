@@ -1,7 +1,7 @@
 I am Harsitha.M.K.
 I love learning and I am passionate about creating great stuff.
 My tech stack:
-MySQL,HTML,CSS,Javascript,Python,Machine Learning,Unity,Blender,etc.
+SQL,HTML,CSS,Javascript,Python,Machine Learning,Unity,Blender,etc.
 Do follow me for cool projects and ideas :)
 
 
